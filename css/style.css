@@ -3,5 +3,9 @@ body {
 }
 
 .card-transform {
-  transform: scale(1.05) translateY(-25px);
+  transform: scale(1.05) translateY(-5px);
+}
+
+.font-awm-color {
+  color: bg-primary;
 }
